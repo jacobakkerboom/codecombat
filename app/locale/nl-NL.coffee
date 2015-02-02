@@ -743,9 +743,9 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     diplomat_launch_url: "release in oktober"
     diplomat_introduction_suf: "dan is het wel dat er een enorme belangstelling is voor CodeCombat in andere landen, vooral Brazilië! We zijn een groep van vertalers aan het creëren dat ijverig de ene set woorden in de andere omzet om CodeCombat zo toegankelijk mogelijk te maken in de hele wereld. Als jij het leuk vindt glimpsen op te vangen van aankomende content en deze levels zo snel mogelijk naar je landgenoten te krijgen, dan is dit de klasse voor jou."
     diplomat_attribute_1: "Vloeiend Engels en de taal waar naar je wilt vertalen kunnen spreken. Wanneer je moeilijke ideeën wilt overbrengen, is het belangrijk beide talen goed te begrijpen!"
-#    diplomat_i18n_page_prefix: "You can start translating our levels by going to our"
-#    diplomat_i18n_page: "vertalingen pagina" #deel van Engelse zin. Nederlands werkt zo niet.
-#    diplomat_i18n_page_suffix: ", or our interface and website on GitHub."
+    diplomat_i18n_page_prefix: "Je helpen met het vertalen van onze levels door naar de"
+    diplomat_i18n_page: "vertalingen pagina"
+    diplomat_i18n_page_suffix: "te gaan, of door onze interface en website op GitHub te gebruiken."
     diplomat_join_pref_github: "Vind van jouw taal het locale bestand "
     diplomat_github_url: "op GitHub"
     diplomat_join_suf_github: ", edit het online, en submit een pull request. Daarnaast kun je hieronder aanvinken als je up-to-date wilt worden gehouden met nieuwe internationalisatie-ontwikkelingen."
