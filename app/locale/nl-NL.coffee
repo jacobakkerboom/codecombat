@@ -253,8 +253,8 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     victory_review: "Vertel ons meer!" # Only in old-style levels.
     victory_hour_of_code_done: "Ben Je Klaar?"
     victory_hour_of_code_done_yes: "Ja, ik ben klaar met mijn Hour of Code!"
-    victory_experience_gained: "XP verdient"
-    victory_gems_gained: "Edelstenen verdient"
+    victory_experience_gained: "XP verdiend"
+    victory_gems_gained: "Edelstenen verdiend"
     guide_title: "Handleiding"
     tome_minion_spells: "Jouw Minions' Spreuken" # Only in old-style levels.
     tome_read_only_spells: "Read-Only Spreuken" # Only in old-style levels.
