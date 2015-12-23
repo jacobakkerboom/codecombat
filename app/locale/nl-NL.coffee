@@ -1,12 +1,12 @@
 module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription: "Dutch (Netherlands)", translation:
   home:
-    slogan: "Leer programmeren door het spelen van een spel"
+    slogan: "Leer programmeren door een spel te spelen"
     no_ie: "CodeCombat werkt niet in IE8 of ouder. Sorry!" # Warning that only shows up in IE8 and older
     no_mobile: "CodeCombat is niet gemaakt voor mobiele apparaten en werkt misschien niet!" # Warning that shows up on mobile devices
     play: "Speel" # The big play button that opens up the campaign view.
-#    play_campaign_version: "Play Campaign Version" # Shows up under big play button if you only play /courses
+    play_campaign_version: "Speel de Campagne Versie" # Shows up under big play button if you only play /courses
     old_browser: "Uh oh, jouw browser is te oud om CodeCombat te kunnen spelen, Sorry!" # Warning that shows up on really old Firefox/Chrome/Safari
-    old_browser_suffix: "Je kan toch proberen, maar het zal waarschijnlijk niet werken!"
+    old_browser_suffix: "Je kan het proberen, maar het zal waarschijnlijk niet werken!"
     ipad_browser: "Slecht nieuws: CodeCombat draait niet in je browser op iPad. Goed nieuws: onze iPad-app wordt op het moment beoordeeld door Apple."
     campaign: "Campagne"
     for_beginners: "Voor Beginners"
@@ -20,7 +20,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
   nav:
     play: "Levels" # The top nav bar entry where players choose which levels to play
     community: "Gemeenschap"
-#    courses: "Courses"
+    courses: "Cursussen"
     editor: "Editor"
     blog: "Blog"
     forum: "Forum"
@@ -91,10 +91,10 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
 
   share_progress_modal:
     blurb: "Je gaat snel vooruit! Vertel aan je ouders hoeveel je geleerd hebt met CodeCombat."
-    email_invalid: "Emailaddress klopt niet."
+    email_invalid: "Emailadres klopt niet."
     form_blurb: "Vul het emailadres van je ouders hieronder in en we zullen het ze laten zien!"
-    form_label: "Emailaddress"
-    placeholder: "emailaddress"
+    form_label: "Emailadres"
+    placeholder: "emailadres"
     title: "Goed werk, leerling"
 
   login:
@@ -138,9 +138,9 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
   common:
     back: "Terug" # When used as an action verb, like "Navigate backward"
     continue: "Doorgaan" # When used as an action verb, like "Continue forward"
-    loading: "Bezig met laden..."
-    saving: "Opslaan..."
-    sending: "Verzenden..."
+    loading: "Aan het Laden..."
+    saving: "Aan het Opslaan..."
+    sending: "Aan het Verzenden..."
     send: "Verzend"
     cancel: "Annuleren"
     save: "Opslaan"
@@ -148,7 +148,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     create: "Creëer"
     fork: "Fork"
     play: "Spelen" # When used as an action verb, like "Play next level"
-    retry: "Probeer opnieuw"
+    retry: "Opnieuw Proberen"
     actions: "Acties"
     info: "Info"
     help: "Help"
@@ -198,7 +198,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     score: "Score"
     win: "Win"
     loss: "Verlies"
-    tie: "Gelijkstand"
+    tie: "Gelijkspel"
     easy: "Gemakkelijk"
     medium: "Medium"
     hard: "Moeilijk"
