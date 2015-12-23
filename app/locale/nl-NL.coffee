@@ -66,7 +66,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     locked: "Vergrendeld"
     purchasable: "Te koop" # For a hero you unlocked but haven't purchased
     available: "Beschikbaar"
-#    skills_granted: "Skills Granted" # Property documentation details
+    skills_granted: "Nieuwe vaardigheden" # Property documentation details
     heroes: "Helden" # Tooltip on hero shop button from /play
     achievements: "Prestaties" # Tooltip on achievement list button from /play
     account: "Account" # Tooltip on account button from /play
@@ -340,7 +340,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     tip_source_code: "Ik wil de wereld veranderen, maar ze geven me de broncode niet."
 #    tip_javascript_java: "Java is to JavaScript what Car is to Carpet. - Chris Heilmann"
     tip_move_forward: "Wat je ook doet, ga vooruit. - Martin Luther King Jr."
-    tip_google: "Heb je een probleem dat je niet kan oplossen? Googel het!"
+    tip_google: "Heb je een probleem dat je niet kan oplossen? Google het!"
     tip_adding_evil: "Een snufje kwaad toevoegen."
     tip_hate_computers: "Mensen die denken dat ze de computer haten, haten eigenlijk slechte programmeurs. - Larry Niven"
     tip_open_source_contribute: "Je kunt helpen CodeCombat te verbeteren!"
