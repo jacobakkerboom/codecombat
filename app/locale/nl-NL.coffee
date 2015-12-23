@@ -225,12 +225,12 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     years: "jaren"
 
   play_level:
-#    completed_level: "Completed Level:"
-#    course: "Course:"
+    completed_level: "Level Gehaald:" #not sure
+    course: "Cursus:" #not sure
     done: "Klaar"
-#    next_level: "Next Level:"
-#    next_game: "Next game"
-#    show_menu: "Show game menu"
+    next_level: "Volgende Level:"
+    next_game: "Volgende Spel"
+    show_menu: "Toon Menu" #not sure if perfect
     home: "Home" # Not used any more, will be removed soon.
     level: "Level" # Like "Level: Dungeons of Kithgard"
     skip: "Overslaan"
@@ -243,7 +243,7 @@ module.exports = nativeDescription: "Nederlands (Nederland)", englishDescription
     success: "Gelukt!"
     incomplete: "Incompleet"
     timed_out: "De tijd is op"
-    failing: "Mislukken"
+    failing: "Lukken niet" #Doelen: Lukken niet. Dit komt linksboven te staan
     action_timeline: "Actie tijdlijn"
     click_to_select: "Klik op een eenheid om deze te selecteren."
     control_bar_multiplayer: "Multiplayer"
